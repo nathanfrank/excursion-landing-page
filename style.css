@@ -1,0 +1,25 @@
+html {
+    font-family: 'Verdana';
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+.discover-places p {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.personal-travel-guide, .discover-places {
+    text-align: center;
+    color: white;
+}
+
+footer {
+    text-align: right;
+    color: grey;
+}
