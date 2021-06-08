@@ -9,9 +9,19 @@ h1 {
     font-size: 50px;
     color: white;
 }
-.discover-places p {
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.download-message {
     color: aquamarine;
     font-size: 16px;
+}
+.personal-travel-guide p {
+    font-size: 21px;
+    color: grey;
 }
 
 .personal-travel-guide, .discover-places {
@@ -19,7 +29,8 @@ h1 {
     color: white;
 }
 
-footer {
+footer p {
     text-align: right;
     color: grey;
+    font-size: 21px;
 }
